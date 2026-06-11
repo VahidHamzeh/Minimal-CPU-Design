@@ -47,9 +47,8 @@ Below is the live execution of the iterative arithmetic sequence running on the 
 ### Task I.5: Conditional Lock ("Wait For Me") Dynamic Verification
 Demonstrating real-time peripheral polling, execution of the double-boundary conditional check, and jumping to the terminal safe state upon registering exact match criteria:
 
-<p align="center">
-   <img src="assets/wait-for-me.gif" alt="Wait For Me Simulation Demo" width="800" height="456">
-</p>
+![Uploading  wait-for-me.gif…]()
+
 
 ---
 
