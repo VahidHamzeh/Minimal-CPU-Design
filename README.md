@@ -48,7 +48,7 @@ Below is the live execution of the iterative arithmetic sequence running on the 
 Demonstrating real-time peripheral polling, execution of the double-boundary conditional check, and jumping to the terminal safe state upon registering exact match criteria:
 
 <p align="center">
-   <img src="assets/wait-for-me.gif?v=1" alt="Wait For Me Simulation Demo" width="800" height="456">
+   <img src="assets/wait-for-me.gif" alt="Wait For Me Simulation Demo" width="800" height="456">
 </p>
 
 ---
