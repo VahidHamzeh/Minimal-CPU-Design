@@ -13,7 +13,7 @@ A custom-designed 10-bit CPU architecture engineered and simulated using the **D
 
 ---
 
-## 🚀 Tasks & Implementation Breakdown
+## ✅ Tasks & Implementation Breakdown
 
 ### Task I.1: Underflow Protection & ALU Correction
 * **Objective:** Read an external stimulus (button input) into a register, subtract a constant threshold ($39_{10}$), and robustly display the output on a 7-Segment display.
@@ -125,4 +125,13 @@ Demonstrating real-time peripheral polling, execution of the double-boundary con
 | **0x0E** | 00E | `CND 0x0E` | Infinite loop: Jump to PC=0x0E (Locks the processor on 83) | `# 0000001110` |
 
 ---
+
+## 🚀 How to Run the Simulation
+1. Download and install [Digital](https://github.com/hneemann/Digital).
+2. Clone this repository to your local machine.
+3. Open the main circuit design file (`*.dig`) within the Digital environment.
+4. Right-click on the embedded **ROM** component, click *Load*, and import the machine code file (`.hex` or copy directly from the instruction map).
+5. Press the **Play** button to initialize the simulation. 
+6. Turn on the automatic **Clock Generator** or step through manually to observe live automated register state jumps and indicator display status updates.
+
 *Developed as part of the Computer Architecture & Digital Logic Design Laboratory at Sharif University of Technology.*
