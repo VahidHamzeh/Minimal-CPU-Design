@@ -41,7 +41,7 @@ A custom-designed 10-bit CPU architecture engineered and simulated using the **D
 Below is the live execution of the iterative arithmetic sequence running on the 10-bit datapath, showcasing real-time register updates and structural clock cycles:
 
 <p align="center">
-  <img src="assets/fibonacci-forever.gif" alt="Fibonacci Forever Simulation Demo" width="800" height="456">
+  <img src="assets/fibonacci_forever.gif" alt="Fibonacci Forever Simulation Demo" width="800" height="456">
 </p>
 
 ### Task I.5: Conditional Lock ("Wait For Me") Dynamic Verification
