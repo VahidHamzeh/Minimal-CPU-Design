@@ -1,3 +1,7 @@
+![Architecture](https://img.shields.io/badge/ISA-10--bit-red?style=for-the-badge&logo=cpu&logoColor=white)
+![Tool](https://img.shields.io/badge/Simulation-Digital_Logic-blue?style=for-the-badge&logo=siemens&logoColor=white)
+![Project](https://img.shields.io/badge/Domain-Computer_Architecture-orange?style=for-the-badge&logo=microchip&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
 # Minimal 10-bit CPU Design & Embedded Implementation
 
 A custom-designed 10-bit CPU architecture engineered and simulated using the **Digital** logic design tool. This project showcases hardware-software co-design, optimized control units, instruction set expansion, and rigorous low-level assembly debugging to solve practical hardware constraints.
